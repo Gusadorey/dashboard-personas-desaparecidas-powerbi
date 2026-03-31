@@ -35,6 +35,10 @@ Puedes visualizar el dashboard aquí:
 
 ![sc_dashboard](https://github.com/user-attachments/assets/574a46af-7861-4282-bc0a-032b85852f35)
 
+- ## 📊 KPI's principales
+
+- Tasa de desaparecidos por cada 100 mil habitantes
+
 ## 🔍 Insights clave
 
 - Se identificó una mayor concentración de casos en ciertos departamentos
