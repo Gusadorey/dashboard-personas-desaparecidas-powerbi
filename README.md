@@ -17,6 +17,7 @@ El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para con
 - DAX (medidas y KPIs)
 - Excel / CSV (datasets)
 - Storytelling
+<img width="984" height="556" alt="image" src="https://github.com/user-attachments/assets/964b32fa-cb30-489d-b506-7c97bc39aebf" />
 
   ## 📂 Estructura del proyecto
 
