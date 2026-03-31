@@ -1,4 +1,4 @@
-![sc_dashboard](https://github.com/user-attachments/assets/5ba4c620-bf96-4e2c-ae6d-31c163c1d11e)# 📊 Dashboard de Personas Desaparecidas en Perú 2019 - 2025
+# 📊 Dashboard de Personas Desaparecidas en Perú 2019 - 2025
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI que analiza la problemática de personas desaparecidas en el Perú. 
 El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para contribuir a la toma de decisiones.
