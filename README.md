@@ -1,2 +1,46 @@
-# dashboard-personas-desaparecidas-powerbi
-En el presente dashboard se analiza y brinda soluciones a traves de los datos a una problemática real del Perú: Las personas desaparecidas. Los hallazgos realizados serán claves para brindar soluciones que impacten positivamente a combatir este problema.
+# 📊 Dashboard de Personas Desaparecidas en Perú
+
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI que analiza la problemática de personas desaparecidas en el Perú. 
+El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para contribuir a la toma de decisiones.
+
+## 🎯 Objetivos
+
+- Analizar la evolución de personas desaparecidas en el tiempo
+- Identificar departamentos con mayor riesgo
+- Detectar grupos etarios más vulnerables
+- Proponer insights que apoyen la toma de decisiones
+
+## 🛠️ Herramientas
+
+- Power BI (visualización y modelado)
+- Power Query (transformación de datos)
+- DAX (medidas y KPIs)
+- Excel / CSV (datasets)
+- Storytelling
+
+  ## 📂 Estructura del proyecto
+
+- `datasets/`: fuentes de datos reales extraidas de la plataforma de datos abiertos del Perú.
+- `Reporte/`: archivo .pbix del dashboard
+- `Imagenes/`: Imágenes utilizads en toda la elaboración del dashboard
+- `Lienzos/`: Los lienzos utilizados en todas las hojas del dashboard
+
+- ## 📊 Dashboard interactivo
+
+Puedes visualizar el dashboard aquí:
+👉 [📊 Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjAzYzkwMTItZjczMi00Y2Y1LWFlYWItNzE1MTA2MGE4M2M4IiwidCI6Ijk1OWE1MWQyLTVlNjctNGU4MS05YmE0LTAwMmM5MmM0YWFhZCIsImMiOjR9&pageName=c9b54679d9de9e1e3f3b)
+
+
+## 🔍 Insights clave
+
+- Se identificó una mayor concentración de casos en ciertos departamentos
+- El grupo etario de 12 a 17 años presenta mayor vulnerabilidad
+- Existe una ligera tendencia creciente en los últimos años
+
+- ## 💡 Conclusiones
+
+- Se recomienda reforzar políticas públicas en zonas críticas
+- Implementar campañas preventivas dirigidas a adolescentes
+- Mejorar sistemas de seguimiento y registro
+
+-  ## 💡 Recomendaciones
