@@ -51,4 +51,17 @@ Puedes visualizar el dashboard aquí:
 - Implementar campañas preventivas dirigidas a adolescentes
 - Mejorar sistemas de seguimiento y registro
 
--  ## 💡 Recomendaciones
+-  ## 💡 Recomendaciones y siguientes pasos
+Para complementar el análisis realizado en Power BI, se proponen las siguientes líneas de investigación que permitirán profundizar en la problemática y ofrecer desde su criterio, otros tipos de soluciones, adicionales a la ya brindadas:
+
+### 1. Análisis de estacionalidad
+Se recomienda evaluar la presencia de patrones estacionales en las desapariciones (meses, periodos escolares, periodos de vacaciones). Este tipo de análisis puede realizarse con herramientas como Python o R, permitiendo identificar tendencias recurrentes no evidentes en visualizaciones tradicionales.
+
+### 2. Integración con más variables sociodemográficas
+Se recomienda incorporar variables adicionales como: 
+- Nivel Socioeconómico
+- Indices de criminalidad
+- Indices de violencia familiar
+
+Esto permitiría construir un análisis más robusto y explicar con mayor claridad los factores asociados al riesgo de desaparición. 
+Además a lo ya expuesto, enriquecer el modelo con más variables relevantes será beneficioso para la construcción de modelos de machine learning 
