@@ -20,7 +20,7 @@ El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para con
 - Excel / CSV (datasets)
 -** Storytelling
 
-  ## 📂 Estructura del proyecto
+## 📂 Estructura del proyecto
 
 - `datasets/`: fuentes de datos reales extraidas de la plataforma de datos abiertos del Perú.
 - `Reporte/`: archivo .pbix del dashboard
@@ -28,14 +28,14 @@ El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para con
 - `Lienzos/`: Los lienzos utilizados en todas las hojas del dashboard
 - `screenshots_dashboard/`: Imágenes de las distintas hojas del proyecto
 
-- ## 📊 Dashboard interactivo
+## 📊 Dashboard interactivo
 
 Puedes visualizar el dashboard aquí:
 👉 [📊 Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjAzYzkwMTItZjczMi00Y2Y1LWFlYWItNzE1MTA2MGE4M2M4IiwidCI6Ijk1OWE1MWQyLTVlNjctNGU4MS05YmE0LTAwMmM5MmM0YWFhZCIsImMiOjR9&pageName=c9b54679d9de9e1e3f3b)
 
 ![sc_dashboard](https://github.com/user-attachments/assets/574a46af-7861-4282-bc0a-032b85852f35)
 
-- ## 📊 KPI's principales
+## 📊 KPI's principales
 
 - Tasa de desaparecidos por cada 100 mil habitantes
 - 
@@ -51,19 +51,19 @@ Puedes visualizar el dashboard aquí:
 ![sc_insight3](https://github.com/user-attachments/assets/8ba36aa9-7439-4eb3-927a-32c911e34c9b)
 ![sc_insight4](https://github.com/user-attachments/assets/653893cf-6bc1-46f4-bd76-67fd604d16df)
 
-- ## 💡 Conclusiones
+ ## 💡 Conclusiones
 
 - Se recomienda reforzar políticas públicas en zonas críticas
 - Implementar campañas preventivas dirigidas a adolescentes
 - Mejorar sistemas de seguimiento y registro
 
--  ## 💡 Recomendaciones y siguientes pasos
+## 🧠 Recomendaciones y siguientes pasos
 Para complementar el análisis realizado en Power BI, se proponen las siguientes líneas de investigación que permitirán profundizar en la problemática y ofrecer desde su criterio, otros tipos de soluciones, adicionales a la ya brindadas:
 
-### 1. Análisis de estacionalidad
+  ### 1. Análisis de estacionalidad
 Se recomienda evaluar la presencia de patrones estacionales en las desapariciones (meses, periodos escolares, periodos de vacaciones). Este tipo de análisis puede realizarse con herramientas como Python o R, permitiendo identificar tendencias recurrentes no evidentes en visualizaciones tradicionales.
 
-### 2. Integración con más variables sociodemográficas
+  ### 2. Integración con más variables sociodemográficas
 Se recomienda incorporar variables adicionales como: 
 - Nivel Socioeconómico
 - Indices de criminalidad
