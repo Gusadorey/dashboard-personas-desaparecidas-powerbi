@@ -14,11 +14,10 @@ El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para con
 
 ## 🛠️ Herramientas
 
-**- Power BI (visualización y modelado)
-- Power Query (transformación de datos)
-- DAX (medidas y KPIs)
-- Excel / CSV (datasets)
--** Storytelling
+**- Power BI (visualización y modelado)**
+**- Power Query (transformación de datos)**
+**- DAX (medidas y KPIs)**
+**- Excel / CSV (datasets)**
 
 ## 📂 Estructura del proyecto
 
@@ -45,19 +44,20 @@ Puedes visualizar el dashboard aquí:
 - Se identificaron departamentos críticos con altos niveles de tasa de desaparecidos de manera sostenida, eston son: **CUSCO, JUNIN, LAMBAYEQUE, AREQUIPA y LIMA**.
 - Dentro del grupo etario de 12 a 17 años, que representa el 65% de los desaparecidos, el 71% se concentra en el género femenino, demostrando que este grupo y este género posee la mayor vulnerabilidad.
 - De las tres regiones del Perú, la región sierra posee la mayor tasa de desaparecidos de manera constante.
-- Si bien la cantidad de desapecidos no han regresado a los niveles pre-pandemia, existe una leve tendencia creciente en los dos ultimos años. 
+- Si bien la cantidad de desapecidos no han regresado a los niveles pre-pandemia, existe una leve tendencia creciente en los dos ultimos años.
+  
 ![sc_insight1](https://github.com/user-attachments/assets/0785643c-262f-4383-b1c8-f8d0ccaa89f7)
 ![sc_insight2](https://github.com/user-attachments/assets/7187a2e1-f5af-483c-bc22-1b0e3d14fc1d)
 ![sc_insight3](https://github.com/user-attachments/assets/8ba36aa9-7439-4eb3-927a-32c911e34c9b)
 ![sc_insight4](https://github.com/user-attachments/assets/653893cf-6bc1-46f4-bd76-67fd604d16df)
 
- ## 💡 Conclusiones
+ ## 💡 Conclusiones y recomendaciones
 
-- Se recomienda reforzar políticas públicas en zonas críticas
+- Se recomienda implementar programas de prevención en colegios.
 - Implementar campañas preventivas dirigidas a adolescentes
 - Mejorar sistemas de seguimiento y registro
 
-## 🧠 Recomendaciones y siguientes pasos
+## 🧠 Líneas de análisis futuras
 Para complementar el análisis realizado en Power BI, se proponen las siguientes líneas de investigación que permitirán profundizar en la problemática y ofrecer desde su criterio, otros tipos de soluciones, adicionales a la ya brindadas:
 
   ### 1. Análisis de estacionalidad
