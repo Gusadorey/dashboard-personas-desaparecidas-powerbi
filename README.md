@@ -38,12 +38,18 @@ Puedes visualizar el dashboard aquí:
 - ## 📊 KPI's principales
 
 - Tasa de desaparecidos por cada 100 mil habitantes
+- 
 
 ## 🔍 Insights clave
 
-- Se identificó una mayor concentración de casos en ciertos departamentos
-- El grupo etario de 12 a 17 años presenta mayor vulnerabilidad
-- Existe una ligera tendencia creciente en los últimos años
+- Se identificaron departamentos críticos con altos niveles de tasa de desaparecidos de manera sostenida, eston son: **CUSCO, JUNIN, LAMBAYEQUE, AREQUIPA y LIMA**.
+- Dentro del grupo etario de 12 a 17 años, que representa el 65% de los desaparecidos, el 71% se concentra en el género femenino, demostrando que este grupo y este género posee la mayor vulnerabilidad.
+- De las tres regiones del Perú, la región sierra posee la mayor tasa de desaparecidos de manera constante.
+- Si bien la cantidad de desapecidos no han regresado a los niveles pre-pandemia, existe una leve tendencia creciente en los dos ultimos años. 
+![sc_insight1](https://github.com/user-attachments/assets/0785643c-262f-4383-b1c8-f8d0ccaa89f7)
+![sc_insight2](https://github.com/user-attachments/assets/7187a2e1-f5af-483c-bc22-1b0e3d14fc1d)
+![sc_insight3](https://github.com/user-attachments/assets/8ba36aa9-7439-4eb3-927a-32c911e34c9b)
+![sc_insight4](https://github.com/user-attachments/assets/653893cf-6bc1-46f4-bd76-67fd604d16df)
 
 - ## 💡 Conclusiones
 
@@ -62,6 +68,8 @@ Se recomienda incorporar variables adicionales como:
 - Nivel Socioeconómico
 - Indices de criminalidad
 - Indices de violencia familiar
+- Tasa de deserción escolar
+- Tasa de informalidad
 
 Esto permitiría construir un análisis más robusto y explicar con mayor claridad los factores asociados al riesgo de desaparición. 
-Además a lo ya expuesto, enriquecer el modelo con más variables relevantes será beneficioso para la construcción de modelos de machine learning 
+Este proyecto puede evolucionar hacia un enfoque de análisis avanzada integrando técnicas de ciencia de datos, lo que permitiría no solo describir el fenómeno, sino también anticiparlo.
