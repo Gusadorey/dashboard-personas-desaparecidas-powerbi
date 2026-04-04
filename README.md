@@ -52,10 +52,21 @@ Puedes visualizar el dashboard aquí:
 ![sc_insight4](https://github.com/user-attachments/assets/653893cf-6bc1-46f4-bd76-67fd604d16df)
 
  ## 💡 Conclusiones y recomendaciones
+#### Departamentos con riesgo territorial alto
+- Fortalecimiento de políticas de prevención focalizadas en estos departamentos.
+- Asignación de mayores recursos económicos.
+- Incremento de la capacidad  de respuesta policial y de las fiscalías especializadas en economías ilegales.
+#### Menores de 12 - 17 años desaparecidas
+- Implementación de programas de prevención en colegios.
+- Fortalecimiento de programas de orientación y acompañamiento contra violencia familiar.
+- Concientización a la población y autoridades en la activación oportuna de la alerta Amber.
 
-- Se recomienda implementar programas de prevención en colegios.
-- Implementar campañas preventivas dirigidas a adolescentes
-- Mejorar sistemas de seguimiento y registro
+#### Región Crítica
+- Asignación de mayores recursos focalizados en este región.
+- Fortalecimiento en la coordinación entre la policía, establecimientos de salud, fiscalía y las comunidades rurales.
+
+#### Tendencia creciente pero leve de desaparecidos
+- Modernizar y/o reforzar las políticas ya adoptadas de prevención y de respuesta temprana. 
 
 ## 🧠 Líneas de análisis futuras
 Para complementar el análisis realizado en Power BI, se proponen las siguientes líneas de investigación que permitirán profundizar en la problemática y ofrecer desde su criterio, otros tipos de soluciones, adicionales a la ya brindadas:
