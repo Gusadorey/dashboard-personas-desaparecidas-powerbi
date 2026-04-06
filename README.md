@@ -14,10 +14,10 @@ El objetivo es identificar patrones, tendencias y zonas de mayor riesgo para con
 
 ## 🛠️ Herramientas
 
-**- Power BI (visualización y modelado)**
-**- Power Query (transformación de datos)**
-**- DAX (medidas y KPIs)**
-**- Excel / CSV (datasets)**
+- **Power BI (visualización y modelado)**
+- **Power Query (transformación de datos)**
+- **DAX (medidas y KPIs)**
+- **Excel / CSV (datasets)**
 
 ## 📂 Estructura del proyecto
 
@@ -34,10 +34,19 @@ Puedes visualizar el dashboard aquí:
 
 ![sc_dashboard](https://github.com/user-attachments/assets/574a46af-7861-4282-bc0a-032b85852f35)
 
+A nivel de detalle (drill-trhough)
+![sc_drilltrhough](https://github.com/user-attachments/assets/336a957e-98bd-41c7-8992-616a1ab53b47)
+
+
 ## 📊 KPI's principales
 
+- Total desaparecidos por género
 - Tasa de desaparecidos por cada 100 mil habitantes
-- 
+- Variación interanual e intermensual
+- Tasa de desaparecidos por región y departamento
+- Tasa de riesgo de desaparecidos
+- Ratio de desaparecidos varóm - mujer
+
 
 ## 🔍 Insights clave
 
